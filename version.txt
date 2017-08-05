@@ -1,5 +1,5 @@
 {
-	"version_code": 17,
-	"version_name": "2.5.0",
-	"force_update": true
+	"version_code": 18,
+	"version_name": "4.0.0",
+	"force_update": false
 }
