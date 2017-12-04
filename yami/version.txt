@@ -1,5 +1,7 @@
 {
-	"version_code": 1,
-	"version_name": "1.0.0",
-	"force_update": false
+  "version_code": 2,
+  "version_name": "1.1.0",
+  "force_update": false,
+  "vietnamese": "- Tính năng mới: CỬA HÀNG!\n- Tính năng mới: Chế tác bằng Gem!\n- Thêm một số units N2!\n- Sửa lỗi Unit-12 N3, Unit-9 N4, Unit-29 N5.\n- Sửa lỗi hiện quá nhiều thông báo.\n- Tăng tốc độ chuyển màn hình.\n- Nâng cấp giao diện, tương tác người dùng.",
+  "english": "- New Feature: STORE!\n- New Feature: Craft Costume by Gem!\n- Added some units of N2!\n- Fixed bug of Unit-12 N3, Unit-9 N4, Unit-29 N5.\n- Fixed bug so much notifications.\n- Improve loading speed.\n- Improve UI, UX."
 }
