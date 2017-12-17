@@ -1,7 +1,7 @@
 {
-  "version_code": 3,
-  "version_name": "1.2.0",
+  "version_code": 4,
+  "version_name": "1.2.1",
   "force_update": false,
-  "vietnamese": "- Tính năng mới: Trùm Cuối Mỗi Unit!\n- Thêm 4 nhân vật mới!\n- Thêm dữ liệu 8 units của N2!",
-  "english": "- New Feature: UNIT BOSS!\n- Added 4 New Characters!\n- Added 8 Units of N2!"
+  "vietnamese": "- Thêm 1 vài units dữ liệu của N4, N2!\n- Cải thiện hiệu ứng của màn hình Học Tập: Nhanh hơn và Đỡ mỏi mắt hơn!\n- Thêm tính năng mới: Nhân đôi phần thưởng!",
+  "english": "- Add some units of N4, N2!\n- Improve animations of Learn feature: Faster and Eye strain relief!\n- Add new feature: Double Rewards!"
 }
