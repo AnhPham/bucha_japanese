@@ -1,7 +1,7 @@
 {
-  "version_code": 4,
-  "version_name": "1.2.1",
+  "version_code": 5,
+  "version_name": "1.3.0",
   "force_update": false,
-  "vietnamese": "- Thêm 1 vài units dữ liệu của N4, N2!\n- Cải thiện hiệu ứng của màn hình Học Tập: Nhanh hơn và Đỡ mỏi mắt hơn!\n- Thêm tính năng mới: Nhân đôi phần thưởng!",
-  "english": "- Add some units of N4, N2!\n- Improve animations of Learn feature: Faster and Eye strain relief!\n- Add new feature: Double Rewards!"
+  "vietnamese": "SỰ KIỆN GIÁNG SINH!\n(20/12 ~ 31/12)\n- Nhân đôi coins & vật liệu!\n- Nền mới miễn phí: Giáng Sinh!\n- Trang phục mới miễn phí: Santa!",
+  "english": "CHRISTMAS EVENT!\n(20/12 ~ 31/12)\n- Double Coins & Materials!\n- Free New Theme: Christmas!\n- Free New Character: Santa!"
 }
