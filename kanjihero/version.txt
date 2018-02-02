@@ -1,7 +1,7 @@
 {
-  "version_code": 1,
-  "version_name": "1.0.0",
+  "version_code": 5,
+  "version_name": "1.2.0",
   "force_update": false,
-  "vietnamese": "",
-  "english": ""
+  "vietnamese": "- Bổ sung dữ liệu Kanji N2.\n- Tính năng thách đấu mới.\n- Bổ sung vật phẩm hỗ trợ.\n- Sửa lỗi tràn điểm.",
+  "english": "- Bổ sung dữ liệu Kanji N2.\n- Tính năng thách đấu mới.\n- Bổ sung vật phẩm hỗ trợ.\n- Sửa lỗi tràn điểm."
 }
