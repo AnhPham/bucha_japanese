@@ -1,7 +1,7 @@
 {
-	"version_code": 1,
+	"version_code": 2,
 	"version_name": "1.0.0",
 	"force_update": false,
-	"vietnamese": "",
-	"english": ""
+	"vietnamese": "- Update 1\n- Update 2\n- Update 3",
+	"english": "- Update 1\n- Update 2\n- Update 3"
 }
